@@ -1,1 +1,6 @@
-
+streamlit
+pickle
+pandas
+rapidfuzz
+ast
+requests
